@@ -1,1 +1,2 @@
-# Class-100-Project
+# Python_class
+solution C-100
